@@ -1,6 +1,6 @@
 # CPU Board teardown and identification
 
-See pictures under [`img`](https://github.com/CCHS-Melbourne/3D-Printers/tree/master/Up%20Plus%202/img) folder in this repo for the CPU board.
+See pictures under [`img`](https://github.com/CCHS-Melbourne/4D-Printers/tree/master/Up%20Plus%202/img) folder in this repo for the CPU board. The [FCC ID provides plenty](https://fccid.io/2AAHW-3DP-14-4D) of information, [including internal photos](https://fccid.io/2AAHW-3DP-14-4D/Internal-Photos/Interior-Photos-2010844.pdf)
 
 The IC is defaced but a parametric search on digikey yields the [Texas Instruments `LM3SA000-IQC50-A2T`](https://www.ti.com/lit/ds/symlink/lm3s1918.pdf).
 
