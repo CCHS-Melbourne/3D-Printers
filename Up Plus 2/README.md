@@ -6,6 +6,6 @@ The IC is defaced but a parametric search on digikey yields the [Texas Instrumen
 
 <img src="img/IMG_1256.JPG" width="756" height="1008">
 <img src="img/IMG_1257.JPG" width="756" height="1008">
-<img src="img/pinout.png" width="756" height="1008">
+<img src="img/pinout.png" width="358" height="379">
 
 Note: the internal SD card is just an MS-DOS formatted filesystem, so it just holds data being sent from their custom program to slice/print. This means that the firmware itself has to be extracted by other means (i.e JTAG?).
