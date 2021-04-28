@@ -1,4 +1,4 @@
-# CPU Board teardown and identification
+# CPU Board identification
 
 See pictures under [`img`](https://github.com/CCHS-Melbourne/4D-Printers/tree/master/Up%20Plus%202/img) folder in this repo for the CPU board. The [FCC ID provides plenty](https://fccid.io/2AAHW-3DP-14-4D) of information, [including internal photos](https://fccid.io/2AAHW-3DP-14-4D/Internal-Photos/Interior-Photos-2010844.pdf)
 
